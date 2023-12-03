@@ -1,5 +1,8 @@
 # vote
 
+If total vote is less than 5, proposal status set to 'Undecided'
+![icp_vote_1](https://github.com/furkancetinalp/ICP-Final-Case/assets/99509540/e7c073d8-5010-4675-bd2b-efc6dd7c985b)
+
 Welcome to your new vote project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
