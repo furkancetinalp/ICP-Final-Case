@@ -1,5 +1,10 @@
 import { vote_backend } from "../../declarations/vote_backend";
 
+const getCurrentProposal = async (count) => {
+  const getCurrentProposal = await vote_backend.get_proposal(Number(count));
+  setCurrentProposal(getCurrentProposal);
+}
+
 document.querySelector("form").addEventListener("submit", async (e) => {
   e.preventDefault();
   const button = e.target.querySelector("button");
