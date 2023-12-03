@@ -7,6 +7,8 @@ In that case, total vote is 9 => Reject :1 , Approve: 4 , Pass: 4
 Just because any of the vote types cannot get at lease 50% of total vote count, the status remains 'Undecided'
 ![icp_vote_2](https://github.com/furkancetinalp/ICP-Final-Case/assets/99509540/c90b8849-1e62-421a-93f7-af60f707cfee)
 
+Now, total vote is 10 and 'Approve' has 5 votes which means it has at least 50% of total vote. So, the status became 'Approved'
+![icp_vote_3](https://github.com/furkancetinalp/ICP-Final-Case/assets/99509540/627b9833-a6ac-43e2-9057-e9a254cdeb6b)
 
 
 Welcome to your new vote project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
